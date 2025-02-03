@@ -1,4 +1,4 @@
-# Nuxt 3 Project
+# Vue 3, Nuxt 3, Tailwind CSS 4.0, Pinia, Pwa, Image optimization Starter repo
 
 ## Features
 
